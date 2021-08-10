@@ -2,4 +2,4 @@
 ## Pyramidion project
 
 ###screen record
-![Screen Record](https://github.com/rajaghaneshan/navigation_drawer/blob/main/scrrenshots/record.gif)
+<img src="https://github.com/rajaghaneshan/navigation_drawer/blob/main/scrrenshots/record.gif" height=100px/>
