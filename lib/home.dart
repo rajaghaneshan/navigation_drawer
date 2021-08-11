@@ -76,6 +76,7 @@ class _HomePageState extends State<HomePage> {
       body: PageView(
         controller: _pageController,
         onPageChanged: onPageChanged,
+        physics: NeverScrollableScrollPhysics(),
         children: [
           PageContainer(
               goToPage: 2, color: Colors.red, function: () => onTap(1)),
